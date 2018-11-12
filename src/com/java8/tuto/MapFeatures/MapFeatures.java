@@ -96,9 +96,7 @@ public class MapFeatures {
 				.collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
 				(oldValue, newValue) -> oldValue, LinkedHashMap::new));
 		
-		System.out.println(sortedMapByKey);
 		
-		System.out.println("REF-010".compareTo("REF-002"));
 	}
 
 	public static int getStreamOfRandomInts(int min, int max) {
