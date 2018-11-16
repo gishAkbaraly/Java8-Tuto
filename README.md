@@ -20,3 +20,5 @@ Associate a value with key only if the key does not exist of if the value of the
 ### forEach 
 Consume all key-value of the map
 
+
+

@@ -1,4 +1,4 @@
-package com.java8.tuto.MapFeatures;
+package com.java8.tuto.map;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
